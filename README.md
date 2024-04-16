@@ -21,15 +21,14 @@ This enclosure is designed to be sleek and minimalistic. It is designed to be 3D
 This enclosure support following boards:
 
 * Raspberry PI 4B
-* Raspberry PI 5B (not compatible with active cooling)
 
 ## Files
 
 Two versions of the upper part are available. One with GPIO access and one without. Ideal for a clean look or server applications like VPN, DNS...
 
-* `RPI_3bplus_enclosure_lower_1.2.STL` Lower part of the enclosure common to all
-* `RPI_3bplus_enclosure_upper_1.2.STL` Orginal upper part of the enclosure with GPIO access
-* `RPI_3bplus_enclosure_upper_1.2_no_gpio.STL` Upper part of the enclosure without GPIO access
+* `RPI_4b_case_bottom.STL` Bottom part of the enclosure common to all
+* `RPI_4b_case_top.STL` Orginal top part of the enclosure with GPIO access
+* `RPI_4b_case_top_no_gpio.STL` Top part of the enclosure without GPIO access
 * `gpio_cover.STL` Cover for GPIO. Best of both worlds, clean look and easy access to GPIO
 
 
