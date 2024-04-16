@@ -12,8 +12,8 @@
 This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But GPIO are easily accessibles.
 
 <p float="left">
-  <img src="https://github.com/AntoninPvr/RPI4B_Case/blob/main/img/render_sd_hdmi.jpg?raw=true"  width="300"/>
-  <img src="https://github.com/AntoninPvr/RPI4B_Case/blob/main/img/render_hdmi_usb.jpg?raw=true" width="300" /> 
+  <img src="https://github.com/AntoninPvr/RPI4B_Case/blob/main/img/render_sd_hdmi.jpg?raw=true"  width="48%"/>
+  <img src="https://github.com/AntoninPvr/RPI4B_Case/blob/main/img/render_hdmi_usb.jpg?raw=true" width="48.4%" /> 
 </p>
 
 
@@ -46,3 +46,25 @@ Clearance is 0.2mm for all parts to facilitate assembly. No support is needed.
 
 ## Run button
 1mm hole above jack connector is designed to fit a 6x6mm push button. This button can be used to wake the Raspberry PI.
+
+## Related projects
+
+* #### Raspberry PI 3B+ Case version is available here:
+    > https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure
+
+    <p align="left">
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/render_sd_hdmi.jpg?raw=true" width="30%">
+    &nbsp;
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/render_hdmi_usb.jpg?raw=true" width="30%">
+    </p>
+
+---
+
+* #### Raspberry PI 5 Case version is available here:
+    > https://github.com/AntoninPvr/RPI5_Case
+
+    <p align="left">
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI5_Case/blob/main/img/render_sd_hdmi.jpg?raw=true" width="30%">
+    &nbsp;
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI5_Case/blob/main/img/render_hdmi_usb.jpg?raw=true" width="30%">
+    </p>
