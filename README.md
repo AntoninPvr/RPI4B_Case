@@ -10,7 +10,7 @@
 ![GitHub License](https://img.shields.io/github/license/AntoninPvr/RPI4B_Case)
 
 <p float="left">
-  <img src="https://github.com/AntoninPvr/RPI5_Case/blob/main/img/raspberry_pi_logo.png?raw=true"  width="60"/>
+  <img src="https://github.com/AntoninPvr/RPI4B_Case/blob/main/img/raspberry_pi_logo.png?raw=true"  width="60"/>
 </p>
 
 This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But GPIO are easily accessibles.
